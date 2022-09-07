@@ -1,0 +1,15 @@
+﻿  Tetris.cpp
+E:\дз\ШАГ\Tetris\Tetris\Shape.h(19,14): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\дз\ШАГ\Tetris\Tetris\Shape.h(19,17): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(42,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(46,19): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(49,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(53,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(62,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(269,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(276,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(284,27): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(292,26): warning C4018: <: несоответствие типов со знаком и без знака
+E:\дз\ШАГ\Tetris\Tetris\Matrix.h(346,23): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+E:\дз\ШАГ\Tetris\Tetris\Tetris.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Tetris.vcxproj -> E:\дз\ШАГ\Tetris\Debug\Tetris.exe

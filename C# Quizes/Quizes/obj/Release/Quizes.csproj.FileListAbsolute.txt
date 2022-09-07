@@ -1,0 +1,10 @@
+E:\дз\ШАГ\Quizes\Quizes\bin\Release\Quizes.exe.config
+E:\дз\ШАГ\Quizes\Quizes\bin\Release\Quizes.exe
+E:\дз\ШАГ\Quizes\Quizes\bin\Release\Quizes.pdb
+E:\дз\ШАГ\Quizes\Quizes\bin\Release\Newtonsoft.Json.dll
+E:\дз\ШАГ\Quizes\Quizes\bin\Release\Newtonsoft.Json.xml
+E:\дз\ШАГ\Quizes\Quizes\obj\Release\Quizes.csprojAssemblyReference.cache
+E:\дз\ШАГ\Quizes\Quizes\obj\Release\Quizes.csproj.CoreCompileInputs.cache
+E:\дз\ШАГ\Quizes\Quizes\obj\Release\Quizes.csproj.CopyComplete
+E:\дз\ШАГ\Quizes\Quizes\obj\Release\Quizes.exe
+E:\дз\ШАГ\Quizes\Quizes\obj\Release\Quizes.pdb

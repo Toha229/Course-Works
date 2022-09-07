@@ -1,0 +1,19 @@
+﻿  ssnake.cpp
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(38,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(38,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(47,24): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(77,24): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(85,23): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(101,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(112,22): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(113,23): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(115,9): warning C4018: '<=': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(117,29): warning C4267: '=': conversion from 'size_t' to 'SHORT', possible loss of data
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(223,23): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(248,23): warning C4018: '<=': signed/unsigned mismatch
+E:\дз\ШАГ\!Course Works\c++ snake\ssnake\ssnake.cpp(300,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LINK : E:\дз\ШАГ\!Course Works\c++ snake\Debug\ssnake.exe not found or not built by the last incremental link; performing full link
+  ssnake.vcxproj -> E:\дз\ШАГ\!Course Works\c++ snake\Debug\ssnake.exe
