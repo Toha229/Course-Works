@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game of Thrones</title>
+    <link rel="stylesheet" href="css/style.css">
+    </link>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    </link>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary"
+        style="margin-top: 100px; margin-bottom: 30px; margin-left: auto; margin-right: auto; width: 75vw;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">Game of Thrones</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01"
+                aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor01">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="characters.html">Characters</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="houses.html">Houses
+                            <span class="visually-hidden">(current)</span>
+                        </a>
+                    </li>
+                </ul>
+                <form class="d-flex" id="searchForm">
+                    <input class="form-control me-sm-2" type="search" placeholder="Search" id="searchBox">
+                </form>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="tape">
+        <h3 style="text-align: center;">Houses</h3>
+        <div class="houses-list">
+            <div class="accordion" id="accordionHouses">
+
+            </div>
+        </div>
+    </div>
+    <script src="js/houses.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

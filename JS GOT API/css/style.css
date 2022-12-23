@@ -1,0 +1,43 @@
+.tape{
+    margin: auto;
+    width: 70vw;
+    min-height: 20vh;
+    background-color: var(--bs-blue);
+    border-radius: 10px;
+    padding: 5px;
+}
+.character-preview{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    background-color: var(--bs-cyan);
+    border-radius: 5px;
+    margin: 5px;
+}
+div.character-info{
+    padding: 5px; 
+    width: 100%;
+}
+p.character-info{
+    font-size: x-large;
+    text-align: center;
+}
+.portrait{
+    margin: 5px;
+    width: 15vw;
+    min-width: 150px;
+}
+.background{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu-text{
+    writing-mode: vertical-rl; 
+    text-orientation: upright;
+    transition: font-size 0.5s
+}
+.menu-text:hover {
+    font-size: 60px;
+}
